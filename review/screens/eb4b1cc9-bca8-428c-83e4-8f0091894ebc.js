@@ -262,7 +262,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_11_0">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. </span>\
+                  <span id="rtr-s-Text_11_0">Hostels are available all around the island for a low-cost place to stay. Taniti offers both shared and private rooms, and common gathering areas. This is a popular choice for solo travelers, students, and groups looking for affordable lodging while exploring the island. </span>\
                 </div>\
               </div>\
             </div>\
@@ -344,7 +344,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_14_0">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. </span>\
+                  <span id="rtr-s-Text_14_0"> Family-owned hotels are available around Taniti City and various beach-front locations. Many offer private rooms, convenient access to beaches, restaurants, shops, and attractions. They are a popular choice for couples, families, and travelers looking to experience the pure island adventure. </span>\
                 </div>\
               </div>\
             </div>\
@@ -426,7 +426,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_17_0">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. </span>\
+                  <span id="rtr-s-Text_17_0"> Four-star hotels offer a premium experience with spacious lodging, modern rooms, and 5-star service. Guests can enjoy salt-water swimming pools, fitness centers, and order food service any time of the day! These are ideal for travelers seeking comfort and convenience during their visit. </span>\
                 </div>\
               </div>\
             </div>\
